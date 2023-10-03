@@ -1,0 +1,4 @@
+[submodule "ProgTech_Week2"]
+	path = ProgTech_Week2
+	url = https://github.com/NBence99/ProgTech_Week2.git
+	branch = master
